@@ -1,0 +1,12 @@
+body {
+    background-color: cornsilk ;
+}
+h1 {
+    font-size: 4em ;
+    text-align: center ;
+    border: 2px solid #132839 ;
+    background-color: black ;
+    width: 800px ;
+    margin-left: 335px ;
+    color: red ;
+}

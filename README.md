@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: _____James Blackwell__________________________________
 
 ## DUE: 31 Aug 2017
 
